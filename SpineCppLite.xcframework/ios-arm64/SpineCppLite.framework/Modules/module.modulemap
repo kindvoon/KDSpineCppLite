@@ -1,0 +1,7 @@
+
+framework module SpineCppLite {
+    umbrella header "spine-cpp-lite.h"
+
+    export *
+    module * { export * }
+}
